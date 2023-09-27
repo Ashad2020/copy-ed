@@ -1,0 +1,147 @@
+[
+  {
+    "id": "1",
+    "image": "/Resources/Health.png",
+    "category": "Health",
+    "title": "Clean Water for Children",
+    "description": "A medical professional providing care.",
+    "color": "blue",
+    "price": 49.99,
+    "card_bg": "#0052FF26",
+    "category_bg": "#0052FF33",
+    "text_color": "#0052FF"
+  },
+  {
+    "id": "2",
+    "image": "/Resources/Health.png",
+    "category": "Health",
+    "title": "Healthy Meal Options",
+    "description": "A nutritious meal with vegetables and fruits.",
+    "color": "green",
+    "price": 12.99,
+    "card_bg": "#0052FF26",
+    "category_bg": "#0052FF33",
+    "text_color": "#0052FF"
+  },
+  {
+    "id": "3",
+    "image": "/Resources/Health.png",
+    "category": "Health",
+    "title": "Fitness Training",
+    "description": "A fitness trainer assisting a client.",
+    "color": "orange",
+    "price": 39.99,
+    "card_bg": "#0052FF26",
+    "category_bg": "#0052FF33",
+    "text_color": "#0052FF"
+  },
+  {
+    "id": "4",
+    "image": "/Resources/Education.png",
+    "category": "Education",
+    "title": "Good Education",
+    "description": "A classroom filled with eager students.",
+    "color": "purple",
+    "price": 29.99,
+    "card_bg": "#FF444A26",
+    "category_bg": "#FF444A33",
+    "text_color": "#FF444A"
+  },
+  {
+    "id": "5",
+    "image": "/Resources/Education.png",
+    "category": "Education",
+    "title": "Library Resources",
+    "description": "A library filled with books and study tables.",
+    "color": "blue",
+    "price": 19.99,
+    "card_bg": "#FF444A26",
+    "category_bg": "#FF444A33",
+    "text_color": "#FF444A"
+  },
+  {
+    "id": "6",
+    "image": "/Resources/Education.png",
+    "category": "Education",
+    "title": "Graduation Ceremony",
+    "description": "A graduation ceremony with happy students.",
+    "color": "yellow",
+    "price": 69.99,
+    "card_bg": "#FF444A26",
+    "category_bg": "#FF444A33",
+    "text_color": "#FF444A"
+  },
+  {
+    "id": "7",
+    "image": "/Resources/Clothing.png",
+    "category": "Clothing",
+    "title": "Used Clothing Drive",
+    "description": "Stylish clothing on a display rack.",
+    "color": "red",
+    "price": 79.99,
+    "card_bg": "#79C23F26",
+    "category_bg": "#79C23F33",
+    "text_color": "#79C23F"
+  },
+  {
+    "id": "8",
+    "image": "/Resources/Clothing.png",
+    "category": "Clothing",
+    "title": "Fashionable Outfit",
+    "description": "A fashionable outfit for a night out.",
+    "color": "black",
+    "price": 99.99,
+    "card_bg": "#79C23F26",
+    "category_bg": "#79C23F33",
+    "text_color": "#79C23F"
+  },
+  {
+    "id": "9",
+    "image": "/Resources/Clothing.png",
+    "category": "Clothing",
+    "title": "Winter Jackets",
+    "description": "A collection of winter jackets.",
+    "color": "gray",
+    "price": 59.99,
+    "card_bg": "#79C23F26",
+    "category_bg": "#79C23F33",
+    "text_color": "#79C23F"
+  },
+
+  {
+    "id": "10",
+    "image": "/Resources/Food.png",
+    "category": "Food",
+    "title": "Delicious Pasta Dish",
+    "description": "A tasty pasta dish with tomato sauce and basil.",
+    "color": "red",
+    "price": 14.99,
+    "card_bg": "#F8714726",
+    "category_bg": "#F8714733",
+    "text_color": "#F87147"
+  },
+  {
+    "id": "11",
+    "image": "/Resources/Food.png",
+    "category": "Food",
+    "title": "Fresh Seafood",
+    "description": "Fresh seafood ready for cooking.",
+    "color": "blue",
+    "price": 24.99,
+    "card_bg": "#F8714726",
+    "category_bg": "#F8714733",
+    "text_color": "#F87147"
+  },
+  {
+    "id": "12",
+    "image": "/Resources/Food.png",
+    "category": "Food",
+    "title": "Healthy Smoothies",
+    "description": "Nutritious smoothies made with fresh ingredients.",
+    "color": "green",
+    "price": 6.99,
+    "card_bg": "#F8714726",
+    "category_bg": "#F8714733",
+    "text_color": "#F87147"
+  }
+]
